@@ -1,6 +1,6 @@
 'use strict'
 
 const extend = require('extend-prototype')
-const pf = require('possible-function')
+const pfn = require('pfn')
 
-module.exports = m => (...args) => cls => extend(cls, pf(m, m)(...args))
+module.exports = m => (...args) => cls => extend(cls, pfn(m, m)(...args))
