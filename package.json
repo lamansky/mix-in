@@ -1,6 +1,6 @@
 {
   "name": "mix-in",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Turns a set of functions into a mix-in/trait that can extend a class.",
   "keywords": [
     "class",
