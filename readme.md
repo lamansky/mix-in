@@ -4,8 +4,10 @@ Turns a set of functions into a mix-in/trait that can extend a class.
 
 ## Installation
 
+Requires [Node.js](https://nodejs.org/) 7.0.0 or above.
+
 ```bash
-npm install mix-in --save
+npm i mix-in
 ```
 
 ## Basic Usage
